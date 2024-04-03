@@ -64,6 +64,8 @@ and(w4,cin,a);
 or(carry,w2,w3,w4);
 endmodule 
 
+
+
 module fullsub_top(a,b,Bin,BO,DIFF);
 input a,b,Bin;
 output BO,DIFF;
@@ -79,10 +81,13 @@ endmodule
 
 
 **Output Timing Waveform**
+
+
 ![image](https://github.com/Praveenamanikandan/FULL_ADDER_SUBTRACTOR/assets/144870776/05ec3568-faaa-46e0-a4dd-d2a658f2492e)
 
-
 **Full Subtractor**
+
+
 ![image](https://github.com/Praveenamanikandan/FULL_ADDER_SUBTRACTOR/assets/144870776/dd3930ad-d836-4945-af54-82ab450cb8d0)
 
 
